@@ -63,6 +63,30 @@ export const Footer: React.FC<FooterProps> = ({ onOpenQuote }) => {
                 <p><span className="text-slate-200 font-semibold">ND License:</span> {BUSINESS_INFO.license}</p>
                 <p><span className="text-slate-200 font-semibold">Accreditation:</span> {BUSINESS_INFO.bbbRating} • {BUSINESS_INFO.homeAdvisorRating}</p>
               </div>
+
+              {/* Official Badges */}
+              <div className="pt-2 flex items-center gap-2 flex-wrap">
+                <img
+                  src="https://seal-minnesota.bbb.org/seals/blue-seal-293-61-whitetxt-bbb-1000057183.png"
+                  alt="BBB Accredited Business A+ Rating"
+                  className="h-7 max-w-[130px] object-contain rounded-xs"
+                  loading="lazy"
+                />
+                <div className="flex items-center gap-1">
+                  <img
+                    src="https://www.homeadvisor.com/images/sp-badges/elite-solid-border.png"
+                    alt="HomeAdvisor Elite"
+                    className="h-7 w-auto object-contain"
+                    loading="lazy"
+                  />
+                  <img
+                    src="https://www.homeadvisor.com/images/sp-badges/soap-solid-border.png"
+                    alt="HomeAdvisor Top Rated"
+                    className="h-7 w-auto object-contain"
+                    loading="lazy"
+                  />
+                </div>
+              </div>
             </div>
           </div>
 

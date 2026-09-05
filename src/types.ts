@@ -14,7 +14,15 @@ export interface ConcreteService {
 export interface GalleryProject {
   id: string;
   title: string;
-  category: "Driveways" | "Patios" | "Sidewalks" | "Decorative Concrete" | "Foundations" | "Commercial Projects";
+  category:
+    | "Driveways"
+    | "Patios"
+    | "Sidewalks"
+    | "Decorative Concrete"
+    | "Foundations"
+    | "Foundations & Slabs"
+    | "Steps & Stoops"
+    | "Commercial Projects";
   location: string;
   description: string;
   specs: string;

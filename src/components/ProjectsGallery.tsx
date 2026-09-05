@@ -16,8 +16,8 @@ export const ProjectsGallery: React.FC<ProjectsGalleryProps> = ({ onOpenQuote })
     "Driveways",
     "Patios",
     "Sidewalks",
-    "Decorative Concrete",
-    "Foundations",
+    "Steps & Stoops",
+    "Foundations & Slabs",
     "Commercial Projects",
   ];
 

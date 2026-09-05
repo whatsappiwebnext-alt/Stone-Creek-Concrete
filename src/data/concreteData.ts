@@ -36,7 +36,7 @@ export const CONCRETE_SERVICES: ConcreteService[] = [
       "Precision tooled control joints to manage thermal freeze-thaw movement",
       "High-durability air-entrained concrete (5%-7% air content for frost protection)"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_65.jpg",
     category: "residential"
   },
   {
@@ -54,7 +54,7 @@ export const CONCRETE_SERVICES: ConcreteService[] = [
       "Isolation and expansion joints engineered to safeguard foundation walls",
       "Protective acrylic sealers for stain, moisture, and UV resistance"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_45.jpg",
     category: "residential"
   },
   {
@@ -71,7 +71,7 @@ export const CONCRETE_SERVICES: ConcreteService[] = [
       "Traction-textured treads designed for icy North Dakota winter conditions",
       "Rigid formwork producing clean, modern architectural lines"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_55.jpg",
     category: "residential"
   },
   {
@@ -88,7 +88,7 @@ export const CONCRETE_SERVICES: ConcreteService[] = [
       "Fargo city sidewalk specifications and ADA compliance",
       "Clean edge tooling and expansion joints to manage thermal movement"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1584463699042-3a5fc76402ec?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_68.jpg",
     category: "residential"
   },
   {
@@ -105,7 +105,7 @@ export const CONCRETE_SERVICES: ConcreteService[] = [
       "Reinforced bedding to prevent inlay shifting or loose stones",
       "UV-stable joint sealants that lock out moisture and weeds"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_56.jpg",
     category: "decorative"
   },
   {
@@ -122,7 +122,7 @@ export const CONCRETE_SERVICES: ConcreteService[] = [
       "Cast-in-place anchor bolts aligned with building framing plans",
       "High-grade vapor barrier preventing ground moisture and dampness"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1541888946425-d0fbb186156f?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_60.jpg",
     category: "structural"
   },
   {
@@ -139,7 +139,7 @@ export const CONCRETE_SERVICES: ConcreteService[] = [
       "Reduces runoff burden on municipal stormwater systems",
       "Modern aesthetic with diverse color, texture, and pattern choices"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_53.jpg",
     category: "decorative"
   },
   {
@@ -156,7 +156,7 @@ export const CONCRETE_SERVICES: ConcreteService[] = [
       "Superior resistance to surface wear and vehicular traffic",
       "Enhanced with deep-penetrating sealers to highlight rich natural stone colors"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_41.jpg",
     category: "decorative"
   },
   {
@@ -173,7 +173,7 @@ export const CONCRETE_SERVICES: ConcreteService[] = [
       "Protection of building foundation from frost-heave and hydrostatic pressure",
       "Preventative commercial sealing extending concrete lifespan"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_59.jpg",
     category: "structural"
   },
   {
@@ -190,91 +190,311 @@ export const CONCRETE_SERVICES: ConcreteService[] = [
       "High early-strength mix options for minimized business downtime",
       "Full OSHA-compliant job site safety and certified crew management"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_58.jpg",
     category: "commercial"
   }
 ];
 
 export const GALLERY_PROJECTS: GalleryProject[] = [
   {
-    id: "proj-1",
-    title: "Reinforced 3-Stall Driveway & Approach",
+    id: "proj-68",
+    title: "Residential Entry Sidewalk & Walkway",
+    category: "Sidewalks",
+    location: "Fargo, ND",
+    description: "Clean poured concrete sidewalk connecting driveway to the entryway with smooth hand-tooled picture-frame borders and slip-resistant broom finish.",
+    specs: "210 sq ft • 4\" Slab • Air-entrained 4,000 PSI",
+    finishType: "Non-slip broom with smooth picture-frame borders",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_68.jpg"
+  },
+  {
+    id: "proj-67",
+    title: "Reinforced Full Concrete Driveway Replacement",
     category: "Driveways",
-    location: "1760 42nd St S Area, Fargo, ND",
-    description: "Complete tear-out of settled asphalt replaced with 5.5-inch 4,500 PSI air-entrained concrete, heavy rebar grid, and hand-tooled control joints.",
-    specs: "980 sq ft • 5.5\" Thickness • #4 Rebar on 18\" centers",
-    finishType: "Non-slip broom with 4\" smooth picture-frame borders",
-    imageUrl: "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?auto=format&fit=crop&w=1200&q=80"
+    location: "Fargo & West Fargo, ND",
+    description: "Full residential driveway replacement built with 5.5-inch 4,500 PSI mix, tied rebar grid, and expansion joints for frost protection.",
+    specs: "840 sq ft • 5.5\" Slab • #4 Rebar on 18\" centers",
+    finishType: "Broom finish with hand-tooled control joints",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_67.jpg"
   },
   {
-    id: "proj-2",
-    title: "Custom Ashlar Slate Stamped Patio",
-    category: "Decorative Concrete",
-    location: "South Fargo, ND",
-    description: "Expansive outdoor entertainment patio with integrated charcoal border, stamped ashlar slate texture, and sealed with a UV-resistant protective coat.",
-    specs: "640 sq ft • 4\" Slab • Dual-tone charcoal & slate pigment",
-    finishType: "Deep slate stamp texture with protective gloss sealer",
-    imageUrl: "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?auto=format&fit=crop&w=1200&q=80"
+    id: "proj-66",
+    title: "Curved Landscape Walkway & Approach",
+    category: "Sidewalks",
+    location: "Fargo, ND",
+    description: "Custom-curved pedestrian walkway with continuous smooth finish and positive 1/4\" per foot slope away from foundation.",
+    specs: "180 sq ft • 4\" Slab • Positive drainage pitch",
+    finishType: "Fine directional broom texture",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_66.jpg"
   },
   {
-    id: "proj-3",
-    title: "Backyard Curved Living Patio & Fire Pit Ring",
+    id: "proj-65",
+    title: "Double-Stall Concrete Driveway & Apron",
+    category: "Driveways",
+    location: "Fargo, ND",
+    description: "Heavy-duty driveway installation engineered for harsh North Dakota winter freeze-thaw cycles and heavy vehicle parking.",
+    specs: "720 sq ft • 5.5\" Slab • Rebar reinforced",
+    finishType: "Light broom finish with tooled edges",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_65.jpg"
+  },
+  {
+    id: "proj-64",
+    title: "Front Porch Approach Sidewalk",
+    category: "Sidewalks",
+    location: "Fargo, ND",
+    description: "Precision-leveled sidewalk poured flush with existing front stoop and garage approach to permanently eliminate trip hazards.",
+    specs: "160 sq ft • 4\" Thickness • Clean isolation joints",
+    finishType: "Non-skid safety broom",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_64.jpg"
+  },
+  {
+    id: "proj-63",
+    title: "Metro Area Commercial Flatwork & Entry",
+    category: "Commercial Projects",
+    location: "Fargo & Moorhead, ND",
+    description: "Commercial entrance flatwork built with high-early strength mix, ADA compliance, and heavy pedestrian traffic durability.",
+    specs: "1,150 sq ft • 6\" Heavy Mix • Tied rebar grid",
+    finishType: "Industrial broom finish",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_63.jpg"
+  },
+  {
+    id: "proj-62",
+    title: "Neighborhood Sidewalk Replacement",
+    category: "Sidewalks",
+    location: "Fargo, ND",
+    description: "City-compliant sidewalk section poured over mechanically compacted crushed gravel sub-base for frost heave protection.",
+    specs: "280 sq ft • 4\" Uniform depth • ADA compliant",
+    finishType: "Medium directional broom",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_62.jpg"
+  },
+  {
+    id: "proj-61",
+    title: "3-Stall Garage Driveway & Extension",
+    category: "Driveways",
+    location: "West Fargo, ND",
+    description: "Expansive 3-stall driveway with dedicated parking pad extension, straight control cuts, and laser-checked drainage pitch.",
+    specs: "1,050 sq ft • 5\" Core • Rebar reinforced",
+    finishType: "Broom finish with decorative picture-frame border",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_61.jpg"
+  },
+  {
+    id: "proj-60",
+    title: "Engineered Concrete Foundation Walls & Footings",
+    category: "Foundations & Slabs",
+    location: "Fargo, ND",
+    description: "Structural foundation footings and stem walls poured with laser precision and tied steel cages for maximum load support.",
+    specs: "Engineered specs • Continuous footing with rebar cage",
+    finishType: "Structural formwork smooth finish",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_60.jpg"
+  },
+  {
+    id: "proj-59",
+    title: "Residential Home Foundation Prep & Pour",
+    category: "Foundations & Slabs",
+    location: "Fargo, ND",
+    description: "Deep frost foundation pour designed for Fargo expansive clay soil conditions, preventing settling and moisture intrusion.",
+    specs: "Monolithic frost footings • Pinned foundation dowels",
+    finishType: "Structural foundation concrete",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_59.jpg"
+  },
+  {
+    id: "proj-58",
+    title: "Commercial Equipment Slab & Apron",
+    category: "Foundations & Slabs",
+    location: "Fargo, ND",
+    description: "Heavy-duty monolithic slab designed for machinery, vehicle lifts, and high structural load capacities.",
+    specs: "1,400 sq ft • 6\" 4,500 PSI • Dowel baskets",
+    finishType: "Power-troweled smooth hard finish",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_58.jpg"
+  },
+  {
+    id: "proj-57",
+    title: "Driveway Tear-Out & Modern Replacement",
+    category: "Driveways",
+    location: "Fargo, ND",
+    description: "Removal of cracked, sunken concrete replaced with solid reinforced concrete flatwork and positive yard drainage.",
+    specs: "680 sq ft • 5\" Air-Entrained 4,000 PSI",
+    finishType: "Broom finish with hand-tooled margins",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_57.jpg"
+  },
+  {
+    id: "proj-56",
+    title: "Custom Flatwork & Decorative Border Detail",
+    category: "Commercial Projects",
+    location: "Fargo & West Fargo, ND",
+    description: "Detailed concrete work with precision borders, clean grade adjustments, and seamless curb transitions.",
+    specs: "450 sq ft • 5\" Slab • Rebar grid",
+    finishType: "Smooth hand-tooled picture frame",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_56.jpg"
+  },
+  {
+    id: "proj-55",
+    title: "Monolithic Poured Front Entry Steps",
+    category: "Steps & Stoops",
+    location: "Fargo, ND",
+    description: "Solid monolithic concrete entry stairs anchored into the foundation with rebar dowels to permanently prevent settling.",
+    specs: "3-Riser Monolithic Pour • Frost-pinned dowels",
+    finishType: "Non-slip safety tread broom finish",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_55.jpg"
+  },
+  {
+    id: "proj-54",
+    title: "Custom Tiered Concrete Step Landing",
+    category: "Steps & Stoops",
+    location: "West Fargo, ND",
+    description: "Uniform rise and run entry steps providing safe, sturdy footing in freezing winter rain and snow conditions.",
+    specs: "Uniform 7\" rise / 11\" run • Steel reinforced",
+    finishType: "Textured non-skid treads",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_54.jpg"
+  },
+  {
+    id: "proj-53",
+    title: "Storage Shed & Detached Garage Slab",
+    category: "Foundations & Slabs",
+    location: "Fargo, ND",
+    description: "Floating slab with thickened edges and integrated vapor barrier, ready for timber framing and storage.",
+    specs: "400 sq ft • 4\" Interior / 10\" Thickened Edge",
+    finishType: "Smooth troweled finish",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_53.jpg"
+  },
+  {
+    id: "proj-52",
+    title: "Metro Residential Paving & Approach",
+    category: "Driveways",
+    location: "Fargo & Moorhead, ND",
+    description: "Longitudinal driveway and entryway paving with carefully formed expansion joints to protect existing structures.",
+    specs: "780 sq ft • 5\" Thickness • Air-entrained mix",
+    finishType: "Medium non-slip broom",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_52.jpg"
+  },
+  {
+    id: "proj-51",
+    title: "Outdoor Living Space & Walkway Integration",
+    category: "Patios",
+    location: "Fargo & West Fargo, ND",
+    description: "Backyard entertaining space poured with clean transitions into garden walkways and perimeter turf.",
+    specs: "540 sq ft • 4\" Slab • Fiber reinforced",
+    finishType: "Light broom finish with smooth borders",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_51.jpg"
+  },
+  {
+    id: "proj-50",
+    title: "Municipal & Residential Sidewalk Installation",
+    category: "Sidewalks",
+    location: "Fargo, ND",
+    description: "Pedestrian sidewalk construction featuring deep gravel compaction, 4\" uniform pour, and hand-tooled control joints.",
+    specs: "320 sq ft • 4\" Depth • Straight tooled joints",
+    finishType: "Standard slip-resistant broom",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_50.jpg"
+  },
+  {
+    id: "proj-49",
+    title: "Driveway Replacement & Garage Threshold",
+    category: "Driveways",
+    location: "Fargo, ND",
+    description: "Complete sub-base re-grading and concrete pour to handle snowplow weight and eliminate water pooling near garage threshold.",
+    specs: "820 sq ft • 5.5\" Thickness • Heavy rebar",
+    finishType: "Traction broom finish",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_49.jpg"
+  },
+  {
+    id: "proj-48",
+    title: "Backyard Patio Living Project",
+    category: "Patios",
+    location: "Fargo & West Fargo, ND",
+    description: "Spacious backyard patio designed for family gatherings, grilling, and outdoor patio furniture.",
+    specs: "480 sq ft • 4\" Slab • Expansion joints",
+    finishType: "Directional broom finish",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_48.jpg"
+  },
+  {
+    id: "proj-47",
+    title: "Patio Step-Down & Foundation Stoop",
+    category: "Steps & Stoops",
+    location: "Fargo, ND",
+    description: "Custom poured transition steps from patio sliding glass doors down to the main concrete outdoor living surface.",
+    specs: "Solid monolithic concrete • Pinned to home footing",
+    finishType: "Non-slip surface with smooth bullnose edges",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_47.jpg"
+  },
+  {
+    id: "proj-46",
+    title: "Heavy Equipment Shop Slab",
+    category: "Foundations & Slabs",
+    location: "Fargo Industrial Area, ND",
+    description: "High-PSI interior concrete slab with vapor retarder and rebar chairs, engineered for vehicle storage and heavy tools.",
+    specs: "1,200 sq ft • 6\" 5,000 PSI • Machine troweled",
+    finishType: "Hard machine trowel finish",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_46.jpg"
+  },
+  {
+    id: "proj-45",
+    title: "Backyard Entertainment Concrete Patio",
     category: "Patios",
     location: "Fargo, ND",
-    description: "Curved outdoor living area poured with seamless transition to natural grass and recessed fire pit pad with dedicated sub-base drainage.",
-    specs: "520 sq ft • 4\" Monolithic with perimeter footing",
-    finishType: "Directional fine broom with smooth perimeter border",
-    imageUrl: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    description: "Outdoor patio slab created with positive slope for rain drainage away from foundation, providing a solid surface for furniture.",
+    specs: "600 sq ft • 4\" Thickness • Rebar grid",
+    finishType: "Medium broom with tooled picture-frame edge",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_45.jpg"
   },
   {
-    id: "proj-4",
-    title: "Monolithic Heated Shop Floor & Apron",
-    category: "Foundations",
-    location: "West Fargo Metro Area, ND",
-    description: "Heavy-duty 6\" slab designed for automotive lifts, featuring 15-mil vapor barrier, rebar reinforcement chairs, and precision laser screed finish.",
-    specs: "1,800 sq ft • 6\" 5,000 PSI • Perimeter turn-down footings",
-    finishType: "Hard steel machine trowel with densifier",
-    imageUrl: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=1200&q=80"
-  },
-  {
-    id: "proj-5",
-    title: "Residential Front Entry Walkway & Step Landing",
-    category: "Sidewalks",
-    location: "North Fargo, ND",
-    description: "Modern rectilinear front walkway connecting driveway to porch stoop, engineered with positive 1/4\" per foot drainage pitch away from siding.",
-    specs: "240 sq ft • 4\" Thickness • Clean sawed joints",
-    finishType: "Medium broom finish for winter slip-resistance",
-    imageUrl: "https://images.unsplash.com/photo-1584463699042-3a5fc76402ec?auto=format&fit=crop&w=1200&q=80"
-  },
-  {
-    id: "proj-6",
-    title: "Commercial Apron & Heavy Loading Pad",
-    category: "Commercial Projects",
-    location: "Fargo Industrial District, ND",
-    description: "High-early commercial flatwork designed for daily freight and delivery trucks, complete with dowel baskets and heavy sub-base compaction.",
-    specs: "2,400 sq ft • 8\" Heavy Commercial Mix • #5 Rebar grid",
-    finishType: "Industrial heavy broom finish",
-    imageUrl: "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=1200&q=80"
-  },
-  {
-    id: "proj-7",
-    title: "Detached Garage Slab with Thickened Perimeter",
-    category: "Foundations",
+    id: "proj-44",
+    title: "Utility Pad & Concrete Equipment Slab",
+    category: "Foundations & Slabs",
     location: "Fargo, ND",
-    description: "Floating monolithic slab for detached 2-car garage with thickened perimeter grade beam and anchor bolts set to framing specifications.",
-    specs: "576 sq ft • 5\" Core with 12\" Thickened Edge",
-    finishType: "Steel trowel finish with smooth border",
-    imageUrl: "https://images.unsplash.com/photo-1541888946425-d0fbb186156f?auto=format&fit=crop&w=1200&q=80"
+    description: "Level reinforced slab for AC units, backup generators, and trash container pads, engineered to resist settling.",
+    specs: "240 sq ft • 5\" Slab • Rebar reinforced",
+    finishType: "Light broom finish",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_44.jpg"
   },
   {
-    id: "proj-8",
-    title: "Decorative Stamped Border Driveway Extension",
+    id: "proj-43",
+    title: "Backyard Living Patio Behind House",
+    category: "Patios",
+    location: "Fargo, ND",
+    description: "Classic residential patio providing ample open space for outdoor dining, fire pits, and family entertainment.",
+    specs: "550 sq ft • 4\" Slab • 4,000 PSI air-entrained",
+    finishType: "Broom finish with smooth border",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_43.jpg"
+  },
+  {
+    id: "proj-42",
+    title: "Full Perimeter Backyard Patio Slab",
+    category: "Patios",
+    location: "West Fargo, ND",
+    description: "Large patio flatwork poured directly against backyard landscaping with clean control joints to prevent irregular cracking.",
+    specs: "620 sq ft • 4\" Slab • Fiber reinforced",
+    finishType: "Uniform broom finish",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_42.jpg"
+  },
+  {
+    id: "proj-41",
+    title: "Outdoor Lounge Patio & Grill Station",
+    category: "Patios",
+    location: "Fargo, ND",
+    description: "Low-maintenance concrete patio designed for outdoor cooking, lounge seating, and year-round outdoor use.",
+    specs: "480 sq ft • 4\" Thickness • Hand-tooled borders",
+    finishType: "Light broom finish with framed border",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_41.jpg"
+  },
+  {
+    id: "proj-40",
+    title: "Solid Poured Entry Stoop & Footings",
+    category: "Steps & Stoops",
+    location: "Fargo, ND",
+    description: "Heavy-duty entry stoop poured monolithically with frost footings to resist Red River Valley clay ground heave.",
+    specs: "Monolithic solid pour • Rebar pinned to foundation",
+    finishType: "Non-slip safety broom",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_40.jpg"
+  },
+  {
+    id: "proj-39",
+    title: "Fargo & West Fargo Residential Paving Project",
     category: "Driveways",
-    location: "Fargo, ND",
-    description: "Driveway widening project integrating an 8-foot parking stall extension bordered by a dark bronze stamped slate decorative band.",
-    specs: "420 sq ft • 5\" Air-Entrained Mix • Tied to existing slab",
-    finishType: "Combination broom center with stamped decorative border",
-    imageUrl: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1200&q=80"
+    location: "Fargo & West Fargo, ND",
+    description: "Comprehensive driveway approach and entry flatwork with clean lines, smooth edges, and exceptional curing quality.",
+    specs: "900 sq ft • 5\" Slab • Rebar grid on 18\" centers",
+    finishType: "Architectural broom finish with tooled joints",
+    imageUrl: "https://stonecreekconcretellc.com/images/gallery/gallery_39.jpg"
   }
 ];
 

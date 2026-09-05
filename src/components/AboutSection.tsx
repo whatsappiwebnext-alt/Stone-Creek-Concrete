@@ -11,7 +11,7 @@ export const AboutSection: React.FC = () => {
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-sm overflow-hidden border border-slate-200 shadow-xl bg-slate-100">
               <img
-                src="https://images.unsplash.com/photo-1541888946425-d0fbb186156f?auto=format&fit=crop&w=1000&q=80"
+                src="https://stonecreekconcretellc.com/images/gallery/gallery_61.jpg"
                 alt="Stone Creek Concrete LLC concrete installation and craftsmanship in Fargo ND"
                 className="w-full aspect-[4/3] object-cover"
                 loading="lazy"
@@ -63,6 +63,36 @@ export const AboutSection: React.FC = () => {
               <div className="flex justify-between items-center">
                 <span className="font-bold uppercase tracking-wider text-slate-900">Registered Office:</span>
                 <span className="text-slate-600">1760 42nd St S, Fargo, ND</span>
+              </div>
+
+              {/* Official Badges from stonecreekconcretellc.com */}
+              <div className="pt-2 mt-2 border-t border-slate-200 flex items-center justify-between gap-2">
+                <img
+                  src="https://seal-minnesota.bbb.org/seals/blue-seal-293-61-whitetxt-bbb-1000057183.png"
+                  alt="BBB Accredited Business A+ Rating"
+                  className="h-8 max-w-[140px] object-contain rounded-xs"
+                  loading="lazy"
+                />
+                <div className="flex items-center gap-1.5">
+                  <img
+                    src="https://www.homeadvisor.com/images/sp-badges/elite-solid-border.png"
+                    alt="HomeAdvisor Elite Service"
+                    className="h-8 w-auto object-contain"
+                    loading="lazy"
+                  />
+                  <img
+                    src="https://www.homeadvisor.com/images/sp-badges/soap-solid-border.png"
+                    alt="HomeAdvisor Top Rated"
+                    className="h-8 w-auto object-contain"
+                    loading="lazy"
+                  />
+                  <img
+                    src="https://www.homeadvisor.com/images/sp-badges/1year-solid-border.png"
+                    alt="HomeAdvisor Screened & Approved"
+                    className="h-8 w-auto object-contain"
+                    loading="lazy"
+                  />
+                </div>
               </div>
             </div>
           </div>
