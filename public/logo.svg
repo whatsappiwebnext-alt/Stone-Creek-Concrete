@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240">
+  <g fill="#163e82" stroke="#163e82" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Top central loop handle -->
+    <path d="M 180 44 C 180 20, 220 20, 220 44 Z" fill="#163e82" />
+    <path d="M 188 44 C 188 32, 212 32, 212 44 Z" fill="#ffffff" stroke="#ffffff" stroke-width="2" />
+    
+    <!-- Horizontal handlebar grips -->
+    <rect x="146" y="38" width="108" height="12" rx="6" fill="#163e82" stroke="none" />
+    
+    <!-- Jackhammer Body -->
+    <path d="M 178 50 L 222 50 L 216 88 L 184 88 Z" stroke="none" />
+    
+    <!-- Middle Collar / Flange -->
+    <rect x="174" y="88" width="52" height="9" rx="3" stroke="none" />
+    
+    <!-- Lower chuck housing -->
+    <rect x="184" y="97" width="32" height="26" rx="3" stroke="none" />
+    
+    <!-- Chisel shaft and pointed spade bit -->
+    <path d="M 195 123 L 205 123 L 205 152 L 200 164 L 195 152 Z" stroke="none" />
+    
+    <!-- Vibrating shockwave rays on left -->
+    <line x1="184" y1="138" x2="168" y2="130" stroke-width="4.5" />
+    <line x1="182" y1="151" x2="164" y2="150" stroke-width="4.5" />
+    <line x1="188" y1="163" x2="176" y2="171" stroke-width="4.5" />
+    
+    <!-- Vibrating shockwave rays on right -->
+    <line x1="216" y1="138" x2="232" y2="130" stroke-width="4.5" />
+    <line x1="218" y1="151" x2="236" y2="150" stroke-width="4.5" />
+    <line x1="212" y1="163" x2="224" y2="171" stroke-width="4.5" />
+  </g>
+  
+  <!-- Typography matching exact uploaded brand logo -->
+  <text x="200" y="212" text-anchor="middle" font-family="'Cinzel', 'Times New Roman', 'Georgia', serif" font-size="21" font-weight="700" letter-spacing="3" fill="#163e82" stroke="none">
+    STONE CREEK CONCRETE LLC
+  </text>
+</svg>

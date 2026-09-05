@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="24" fill="#ffffff"/>
+  <g fill="#163e82" stroke="#163e82" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Top central loop handle -->
+    <path d="M 50 32 C 50 16, 78 16, 78 32 Z" fill="#163e82" />
+    <path d="M 56 32 C 56 24, 72 24, 72 32 Z" fill="#ffffff" stroke="#ffffff" stroke-width="2" />
+    
+    <!-- Horizontal handlebar grips -->
+    <rect x="28" y="28" width="72" height="8" rx="4" fill="#163e82" stroke="none" />
+    
+    <!-- Jackhammer Body -->
+    <path d="M 49 36 L 79 36 L 75 62 L 53 62 Z" stroke="none" />
+    
+    <!-- Middle Collar / Flange -->
+    <rect x="47" y="62" width="34" height="6" rx="2" stroke="none" />
+    
+    <!-- Lower chuck housing -->
+    <rect x="53" y="68" width="22" height="18" rx="2" stroke="none" />
+    
+    <!-- Chisel shaft and pointed spade bit -->
+    <path d="M 61 86 L 67 86 L 67 106 L 64 114 L 61 106 Z" stroke="none" />
+    
+    <!-- Vibrating shockwave rays on left -->
+    <line x1="53" y1="96" x2="42" y2="90" stroke-width="3.5" />
+    <line x1="52" y1="105" x2="40" y2="104" stroke-width="3.5" />
+    <line x1="56" y1="113" x2="48" y2="119" stroke-width="3.5" />
+    
+    <!-- Vibrating shockwave rays on right -->
+    <line x1="75" y1="96" x2="86" y2="90" stroke-width="3.5" />
+    <line x1="76" y1="105" x2="88" y2="104" stroke-width="3.5" />
+    <line x1="72" y1="113" x2="80" y2="119" stroke-width="3.5" />
+  </g>
+</svg>
